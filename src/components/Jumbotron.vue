@@ -29,6 +29,7 @@ export default {
 </script>
 
 <template>
+    <!-- Swiper è una libreria JavaScript per creare slider e carousels -->
     <swiper
         :slidesPerView="1"
         :spaceBetween="30"
@@ -44,6 +45,7 @@ export default {
         :modules="modules"
         class="mySwiper"
     >
+    <!-- ciclo per i film in uscita  -->
         <swiper-slide v-for="(card,index) in store.resultArrayUpcomingMovies" :key="index">
 
             <div class="jumboDiv">
