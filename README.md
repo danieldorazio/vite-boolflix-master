@@ -4,7 +4,7 @@
 
 Vite-boolflix è una web app simile alla famosa app Netflix, dove grazie a delle **API esterne fornite da The Movie Database** è possibile ricevere i dati dei film e serie TV più apprezzati e visti, con descrizione del film/serie TV, rating e molto altro. Nella mia applicazione è anche possibile ricercare un singolo titolo.
 
-![Homepage di Vite-boolflix](public\screencapture-homePage.png)
+![Homepage di Vite-boolflix](public/screencapture-homePage.png)
 
 ## Installazione
 
